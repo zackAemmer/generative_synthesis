@@ -34,6 +34,7 @@ def calculateSRMSE(synthetic_pop, true_pop):
     mf = np.sum(mf_vals)
     srmse = rmse / mf
     print(f"Univariate (marginal) SRMSE: {srmse}")
+    return srmse
 
 def calculateBivariateSRMSE(synthetic_pop, true_pop):
 
