@@ -17,8 +17,8 @@ class Sampling(layers.Layer):
 def create_encoder(manifest_dim, hidden_dim, latent_dim):
     # Encoder
     encoder_inputs = keras.Input(shape=(manifest_dim,))
-    encoder_x = layers.Dense(hidden_dim, activation="tanh")(encoder_inputs)
-    encoder_x = layers.Dense(hidden_dim, activation="tanh")(encoder_x)
+    encoder_x = layers.Dense(hidden_dim, activation="tanh", kernel_regularizer='l1')(encoder_inputs)
+    encoder_x = layers.Dense(hidden_dim, activation="tanh", kernel_regularizer='l1')(encoder_x)
     z_mean = layers.Dense(latent_dim, name="z_mean")(encoder_x)
     z_log_var = layers.Dense(latent_dim, name="z_log_var")(encoder_x)
     z = Sampling()([z_mean, z_log_var])
@@ -31,8 +31,8 @@ def create_decoder(manifest_dim, hidden_dim, latent_dim, cat_lengths, hh_idx):
     decoder_latent_inputs = keras.Input(shape=(latent_dim,))
     decoder_control_inputs = keras.Input(shape=(sum(cat_lengths[hh_idx:],)))
     decoder_inputs = keras.layers.Concatenate(axis=1)([decoder_latent_inputs, decoder_control_inputs])
-    decoder_x = layers.Dense(hidden_dim, activation="tanh")(decoder_inputs)
-    decoder_x = layers.Dense(hidden_dim, activation="tanh")(decoder_x)
+    decoder_x = layers.Dense(hidden_dim, activation="tanh", kernel_regularizer='l1')(decoder_inputs)
+    decoder_x = layers.Dense(hidden_dim, activation="tanh", kernel_regularizer='l1')(decoder_x)
     decoder_outputs = [layers.Dense(var_length, activation="softmax")(decoder_x) for var_length in cat_lengths]
     decoder = keras.Model([decoder_latent_inputs, decoder_control_inputs], [decoder_outputs], name="decoder")
     return decoder

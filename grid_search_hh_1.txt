@@ -1,0 +1,720 @@
+[64, 1000, 2, 8, 0.01]
+Univariate (marginal) SRMSE: 0.18266375772771345
+Bivariate (joint) SRMSE: 0.07766168227327241
+[64, 1000, 2, 8, 0.05]
+Univariate (marginal) SRMSE: 0.12233834089567842
+Bivariate (joint) SRMSE: 0.051495970661296346
+[64, 1000, 2, 8, 0.1]
+Univariate (marginal) SRMSE: 0.10762163751907212
+Bivariate (joint) SRMSE: 0.04802911833197508
+[64, 1000, 2, 8, 1.0]
+Univariate (marginal) SRMSE: 0.2527292133790892
+Bivariate (joint) SRMSE: 0.12284909416837787
+[64, 1000, 2, 16, 0.01]
+Univariate (marginal) SRMSE: 0.1823068960096491
+Bivariate (joint) SRMSE: 0.05496593321293818
+[64, 1000, 2, 16, 0.05]
+Univariate (marginal) SRMSE: 0.09886210294303013
+Bivariate (joint) SRMSE: 0.03020264579870063
+[64, 1000, 2, 16, 0.1]
+Univariate (marginal) SRMSE: 0.0733500327553266
+Bivariate (joint) SRMSE: 0.025360487236754783
+[64, 1000, 2, 16, 1.0]
+Univariate (marginal) SRMSE: 0.19345168868155746
+Bivariate (joint) SRMSE: 0.08981012785848091
+[64, 1000, 2, 32, 0.01]
+Univariate (marginal) SRMSE: 0.16862160514750638
+Bivariate (joint) SRMSE: 0.03814530454156793
+[64, 1000, 2, 32, 0.05]
+Univariate (marginal) SRMSE: 0.1076873105663638
+Bivariate (joint) SRMSE: 0.029148371826307102
+[64, 1000, 2, 32, 0.1]
+Univariate (marginal) SRMSE: 0.07183698184374139
+Bivariate (joint) SRMSE: 0.025542600697924824
+[64, 1000, 2, 32, 1.0]
+Univariate (marginal) SRMSE: 0.18388966509646948
+Bivariate (joint) SRMSE: 0.08258495218970265
+[64, 1000, 2, 64, 0.01]
+Univariate (marginal) SRMSE: 0.1388724826547898
+Bivariate (joint) SRMSE: 0.04504695940576578
+[64, 1000, 2, 64, 0.05]
+Univariate (marginal) SRMSE: 0.11165802215137548
+Bivariate (joint) SRMSE: 0.030685541010444534
+[64, 1000, 2, 64, 0.1]
+Univariate (marginal) SRMSE: 0.15289383080892535
+Bivariate (joint) SRMSE: 0.03219213716072644
+[64, 1000, 2, 64, 1.0]
+Univariate (marginal) SRMSE: 0.19621764178585074
+Bivariate (joint) SRMSE: 0.09277468819957613
+[64, 1000, 3, 8, 0.01]
+Univariate (marginal) SRMSE: 0.17164982419764355
+Bivariate (joint) SRMSE: 0.05213843085158912
+[64, 1000, 3, 8, 0.05]
+Univariate (marginal) SRMSE: 0.1350106212123608
+Bivariate (joint) SRMSE: 0.046133497985289026
+[64, 1000, 3, 8, 0.1]
+Univariate (marginal) SRMSE: 0.10213412745826932
+Bivariate (joint) SRMSE: 0.036451475606796534
+[64, 1000, 3, 8, 1.0]
+Univariate (marginal) SRMSE: 0.24835601555187173
+Bivariate (joint) SRMSE: 0.12142693422968426
+[64, 1000, 3, 16, 0.01]
+Univariate (marginal) SRMSE: 0.16589256058088034
+Bivariate (joint) SRMSE: 0.04637053635820109
+[64, 1000, 3, 16, 0.05]
+Univariate (marginal) SRMSE: 0.13797629214224477
+Bivariate (joint) SRMSE: 0.03335219140761416
+[64, 1000, 3, 16, 0.1]
+Univariate (marginal) SRMSE: 0.1281264324981099
+Bivariate (joint) SRMSE: 0.025523614526292565
+[64, 1000, 3, 16, 1.0]
+Univariate (marginal) SRMSE: 0.19611357599745766
+Bivariate (joint) SRMSE: 0.08944366543691462
+[64, 1000, 3, 32, 0.01]
+Univariate (marginal) SRMSE: 0.22007957174859524
+Bivariate (joint) SRMSE: 0.06298068806294652
+[64, 1000, 3, 32, 0.05]
+Univariate (marginal) SRMSE: 0.14009458397455646
+Bivariate (joint) SRMSE: 0.03351324293155511
+[64, 1000, 3, 32, 0.1]
+Univariate (marginal) SRMSE: 0.09839519764318237
+Bivariate (joint) SRMSE: 0.02916036415425227
+[64, 1000, 3, 32, 1.0]
+Univariate (marginal) SRMSE: 0.1692267295813783
+Bivariate (joint) SRMSE: 0.07846443875883909
+[64, 1000, 3, 64, 0.01]
+Univariate (marginal) SRMSE: 0.24804259807793752
+Bivariate (joint) SRMSE: 0.06139842209639193
+[64, 1000, 3, 64, 0.05]
+Univariate (marginal) SRMSE: 0.13384789814334103
+Bivariate (joint) SRMSE: 0.037621768635188894
+[64, 1000, 3, 64, 0.1]
+Univariate (marginal) SRMSE: 0.07995560887971546
+Bivariate (joint) SRMSE: 0.0256748964141799
+[64, 1000, 3, 64, 1.0]
+Univariate (marginal) SRMSE: 0.166042788807336
+Bivariate (joint) SRMSE: 0.0748678665776799
+[64, 1000, 4, 8, 0.01]
+Univariate (marginal) SRMSE: 0.1754352595850216
+Bivariate (joint) SRMSE: 0.06625689166314686
+[64, 1000, 4, 8, 0.05]
+Univariate (marginal) SRMSE: 0.10488433078244497
+Bivariate (joint) SRMSE: 0.047481511876708925
+[64, 1000, 4, 8, 0.1]
+Univariate (marginal) SRMSE: 0.0995513661485356
+Bivariate (joint) SRMSE: 0.03758604877348968
+[64, 1000, 4, 8, 1.0]
+Univariate (marginal) SRMSE: 0.24010544760618757
+Bivariate (joint) SRMSE: 0.11736810102629863
+[64, 1000, 4, 16, 0.01]
+Univariate (marginal) SRMSE: 0.2843818104107559
+Bivariate (joint) SRMSE: 0.051197789374908535
+[64, 1000, 4, 16, 0.05]
+Univariate (marginal) SRMSE: 0.06289544095063546
+Bivariate (joint) SRMSE: 0.024793445118941843
+[64, 1000, 4, 16, 0.1]
+Univariate (marginal) SRMSE: 0.06570710256668447
+Bivariate (joint) SRMSE: 0.021989183783356805
+[64, 1000, 4, 16, 1.0]
+Univariate (marginal) SRMSE: 0.1829902286765818
+Bivariate (joint) SRMSE: 0.08352318876164705
+[64, 1000, 4, 32, 0.01]
+Univariate (marginal) SRMSE: 0.1881205700532642
+Bivariate (joint) SRMSE: 0.0532181774976854
+[64, 1000, 4, 32, 0.05]
+Univariate (marginal) SRMSE: 0.06697685280923793
+Bivariate (joint) SRMSE: 0.0257053954310359
+[64, 1000, 4, 32, 0.1]
+Univariate (marginal) SRMSE: 0.09228683275702078
+Bivariate (joint) SRMSE: 0.026782682427130427
+[64, 1000, 4, 32, 1.0]
+Univariate (marginal) SRMSE: 0.16063295166959835
+Bivariate (joint) SRMSE: 0.0739176147083531
+[64, 1000, 4, 64, 0.01]
+Univariate (marginal) SRMSE: 0.16058043865432317
+Bivariate (joint) SRMSE: 0.051276149100312134
+[64, 1000, 4, 64, 0.05]
+Univariate (marginal) SRMSE: 0.12101878222855099
+Bivariate (joint) SRMSE: 0.030226576015542177
+[64, 1000, 4, 64, 0.1]
+Univariate (marginal) SRMSE: 0.06917867008458306
+Bivariate (joint) SRMSE: 0.022204257206684758
+[64, 1000, 4, 64, 1.0]
+Univariate (marginal) SRMSE: 0.16556204659925206
+Bivariate (joint) SRMSE: 0.07470695041635263
+[128, 1000, 2, 8, 0.01]
+Univariate (marginal) SRMSE: 0.16312664589351344
+Bivariate (joint) SRMSE: 0.06720058947568436
+[128, 1000, 2, 8, 0.05]
+Univariate (marginal) SRMSE: 0.13420866334456863
+Bivariate (joint) SRMSE: 0.0420783348415203
+[128, 1000, 2, 8, 0.1]
+Univariate (marginal) SRMSE: 0.1482014693145287
+Bivariate (joint) SRMSE: 0.04765906441171538
+[128, 1000, 2, 8, 1.0]
+Univariate (marginal) SRMSE: 0.246236160474679
+Bivariate (joint) SRMSE: 0.11953614004773874
+[128, 1000, 2, 16, 0.01]
+Univariate (marginal) SRMSE: 0.16492262175969563
+Bivariate (joint) SRMSE: 0.05106083341644054
+[128, 1000, 2, 16, 0.05]
+Univariate (marginal) SRMSE: 0.10763949964450657
+Bivariate (joint) SRMSE: 0.03755758350303305
+[128, 1000, 2, 16, 0.1]
+Univariate (marginal) SRMSE: 0.11959919823826083
+Bivariate (joint) SRMSE: 0.045390136377681974
+[128, 1000, 2, 16, 1.0]
+Univariate (marginal) SRMSE: 0.1854802219760228
+Bivariate (joint) SRMSE: 0.085297354464774
+[128, 1000, 2, 32, 0.01]
+Univariate (marginal) SRMSE: 0.10784599503960281
+Bivariate (joint) SRMSE: 0.041052129052020984
+[128, 1000, 2, 32, 0.05]
+Univariate (marginal) SRMSE: 0.05296959012880786
+Bivariate (joint) SRMSE: 0.02081236519716125
+[128, 1000, 2, 32, 0.1]
+Univariate (marginal) SRMSE: 0.07360741836588426
+Bivariate (joint) SRMSE: 0.020859824626497228
+[128, 1000, 2, 32, 1.0]
+Univariate (marginal) SRMSE: 0.18310446236830563
+Bivariate (joint) SRMSE: 0.08385161654536588
+[128, 1000, 2, 64, 0.01]
+Univariate (marginal) SRMSE: 0.17021325484278824
+Bivariate (joint) SRMSE: 0.04945422299197493
+[128, 1000, 2, 64, 0.05]
+Univariate (marginal) SRMSE: 0.135091728321824
+Bivariate (joint) SRMSE: 0.03315198180222064
+[128, 1000, 2, 64, 0.1]
+Univariate (marginal) SRMSE: 0.07130109514296182
+Bivariate (joint) SRMSE: 0.023768618733378075
+[128, 1000, 2, 64, 1.0]
+Univariate (marginal) SRMSE: 0.1947772383571826
+Bivariate (joint) SRMSE: 0.09021940911671776
+[128, 1000, 3, 8, 0.01]
+Univariate (marginal) SRMSE: 0.15640894891185594
+Bivariate (joint) SRMSE: 0.05606456079793917
+[128, 1000, 3, 8, 0.05]
+Univariate (marginal) SRMSE: 0.07570859989704906
+Bivariate (joint) SRMSE: 0.03338763887274314
+[128, 1000, 3, 8, 0.1]
+Univariate (marginal) SRMSE: 0.09499770828566663
+Bivariate (joint) SRMSE: 0.03486480442600941
+[128, 1000, 3, 8, 1.0]
+Univariate (marginal) SRMSE: 0.24132642771996574
+Bivariate (joint) SRMSE: 0.11711116816010399
+[128, 1000, 3, 16, 0.01]
+Univariate (marginal) SRMSE: 0.120253665033192
+Bivariate (joint) SRMSE: 0.04266684360354996
+[128, 1000, 3, 16, 0.05]
+Univariate (marginal) SRMSE: 0.06255430399178713
+Bivariate (joint) SRMSE: 0.02775919259834574
+[128, 1000, 3, 16, 0.1]
+Univariate (marginal) SRMSE: 0.08071270628657648
+Bivariate (joint) SRMSE: 0.028749101043706544
+[128, 1000, 3, 16, 1.0]
+Univariate (marginal) SRMSE: 0.24600110449715049
+Bivariate (joint) SRMSE: 0.12113547758815871
+[128, 1000, 3, 32, 0.01]
+Univariate (marginal) SRMSE: 0.24580364553182987
+Bivariate (joint) SRMSE: 0.04244048577712241
+[128, 1000, 3, 32, 0.05]
+Univariate (marginal) SRMSE: 0.07427251689158931
+Bivariate (joint) SRMSE: 0.02597968200524275
+[128, 1000, 3, 32, 0.1]
+Univariate (marginal) SRMSE: 0.08283307995501396
+Bivariate (joint) SRMSE: 0.022521986707724005
+[128, 1000, 3, 32, 1.0]
+Univariate (marginal) SRMSE: 0.1766694842421073
+Bivariate (joint) SRMSE: 0.08349930169189795
+[128, 1000, 3, 64, 0.01]
+Univariate (marginal) SRMSE: 0.17992427183109766
+Bivariate (joint) SRMSE: 0.05302217534031103
+[128, 1000, 3, 64, 0.05]
+Univariate (marginal) SRMSE: 0.15304666339082684
+Bivariate (joint) SRMSE: 0.03167127079901344
+[128, 1000, 3, 64, 0.1]
+Univariate (marginal) SRMSE: 0.08930395384421042
+Bivariate (joint) SRMSE: 0.027468501151796474
+[128, 1000, 3, 64, 1.0]
+Univariate (marginal) SRMSE: 0.17445772855854352
+Bivariate (joint) SRMSE: 0.08028656030476697
+[128, 1000, 4, 8, 0.01]
+Univariate (marginal) SRMSE: 0.1455396937796975
+Bivariate (joint) SRMSE: 0.05110471216423593
+[128, 1000, 4, 8, 0.05]
+Univariate (marginal) SRMSE: 0.08886802559223159
+Bivariate (joint) SRMSE: 0.03671442422623661
+[128, 1000, 4, 8, 0.1]
+Univariate (marginal) SRMSE: 0.16692563133365612
+Bivariate (joint) SRMSE: 0.03482067086539495
+[128, 1000, 4, 8, 1.0]
+Univariate (marginal) SRMSE: 0.23957148957432606
+Bivariate (joint) SRMSE: 0.11650043013284767
+[128, 1000, 4, 16, 0.01]
+Univariate (marginal) SRMSE: 0.2150214165413297
+Bivariate (joint) SRMSE: 0.06590186826095386
+[128, 1000, 4, 16, 0.05]
+Univariate (marginal) SRMSE: 0.09060815356591403
+Bivariate (joint) SRMSE: 0.03274296794154104
+[128, 1000, 4, 16, 0.1]
+Univariate (marginal) SRMSE: 0.10211647340872793
+Bivariate (joint) SRMSE: 0.024048038833691613
+[128, 1000, 4, 16, 1.0]
+Univariate (marginal) SRMSE: 0.24624780811227304
+Bivariate (joint) SRMSE: 0.1208218461629476
+[128, 1000, 4, 32, 0.01]
+Univariate (marginal) SRMSE: 0.23419215608105826
+Bivariate (joint) SRMSE: 0.045005373240649814
+[128, 1000, 4, 32, 0.05]
+Univariate (marginal) SRMSE: 0.06826158651030088
+Bivariate (joint) SRMSE: 0.022993183072915584
+[128, 1000, 4, 32, 0.1]
+Univariate (marginal) SRMSE: 0.06231354617723348
+Bivariate (joint) SRMSE: 0.024603109391680658
+[128, 1000, 4, 32, 1.0]
+Univariate (marginal) SRMSE: 0.17712508445903175
+Bivariate (joint) SRMSE: 0.07976901987780917
+[128, 1000, 4, 64, 0.01]
+Univariate (marginal) SRMSE: 0.17315558433232175
+Bivariate (joint) SRMSE: 0.04518880804042846
+[128, 1000, 4, 64, 0.05]
+Univariate (marginal) SRMSE: 0.09738869126041776
+Bivariate (joint) SRMSE: 0.02931904721089949
+[128, 1000, 4, 64, 0.1]
+Univariate (marginal) SRMSE: 0.07944745823809579
+Bivariate (joint) SRMSE: 0.023110034017670145
+[128, 1000, 4, 64, 1.0]
+Univariate (marginal) SRMSE: 0.15570661841532946
+Bivariate (joint) SRMSE: 0.07322131843504448
+[256, 1000, 2, 8, 0.01]
+Univariate (marginal) SRMSE: 0.19865379480964562
+Bivariate (joint) SRMSE: 0.07214049090728147
+[256, 1000, 2, 8, 0.05]
+Univariate (marginal) SRMSE: 0.17469797656078198
+Bivariate (joint) SRMSE: 0.05595005399033904
+[256, 1000, 2, 8, 0.1]
+Univariate (marginal) SRMSE: 0.15876758301422886
+Bivariate (joint) SRMSE: 0.06414776824649958
+[256, 1000, 2, 8, 1.0]
+Univariate (marginal) SRMSE: 0.23967775656997187
+Bivariate (joint) SRMSE: 0.11637921546718574
+[256, 1000, 2, 16, 0.01]
+Univariate (marginal) SRMSE: 0.20396411762062105
+Bivariate (joint) SRMSE: 0.04454231542402719
+[256, 1000, 2, 16, 0.05]
+Univariate (marginal) SRMSE: 0.13462813794969447
+Bivariate (joint) SRMSE: 0.04076468183065119
+[256, 1000, 2, 16, 0.1]
+Univariate (marginal) SRMSE: 0.09462830345656467
+Bivariate (joint) SRMSE: 0.035695262214455674
+[256, 1000, 2, 16, 1.0]
+Univariate (marginal) SRMSE: 0.24199303896060353
+Bivariate (joint) SRMSE: 0.11885511364101582
+[256, 1000, 2, 32, 0.01]
+Univariate (marginal) SRMSE: 0.137787429006219
+Bivariate (joint) SRMSE: 0.04533873291770117
+[256, 1000, 2, 32, 0.05]
+Univariate (marginal) SRMSE: 0.1215267169029032
+Bivariate (joint) SRMSE: 0.029017721200962802
+[256, 1000, 2, 32, 0.1]
+Univariate (marginal) SRMSE: 0.07037006707416776
+Bivariate (joint) SRMSE: 0.024215091035737536
+[256, 1000, 2, 32, 1.0]
+Univariate (marginal) SRMSE: 0.19253559048387836
+Bivariate (joint) SRMSE: 0.08995310358886467
+[256, 1000, 2, 64, 0.01]
+Univariate (marginal) SRMSE: 0.1995862119896198
+Bivariate (joint) SRMSE: 0.0505267271376237
+[256, 1000, 2, 64, 0.05]
+Univariate (marginal) SRMSE: 0.10008665813160926
+Bivariate (joint) SRMSE: 0.023714072124098165
+[256, 1000, 2, 64, 0.1]
+Univariate (marginal) SRMSE: 0.09866912918519177
+Bivariate (joint) SRMSE: 0.0327455322561728
+[256, 1000, 2, 64, 1.0]
+Univariate (marginal) SRMSE: 0.19090460232476492
+Bivariate (joint) SRMSE: 0.08851725480181846
+[256, 1000, 3, 8, 0.01]
+Univariate (marginal) SRMSE: 0.1311935132923248
+Bivariate (joint) SRMSE: 0.04736909817668413
+[256, 1000, 3, 8, 0.05]
+Univariate (marginal) SRMSE: 0.17770963549029054
+Bivariate (joint) SRMSE: 0.05046850939755432
+[256, 1000, 3, 8, 0.1]
+Univariate (marginal) SRMSE: 0.09747942898042797
+Bivariate (joint) SRMSE: 0.03932559135072553
+[256, 1000, 3, 8, 1.0]
+Univariate (marginal) SRMSE: 0.23234961322836087
+Bivariate (joint) SRMSE: 0.11390288591990017
+[256, 1000, 3, 16, 0.01]
+Univariate (marginal) SRMSE: 0.15068487937494995
+Bivariate (joint) SRMSE: 0.05592614393783864
+[256, 1000, 3, 16, 0.05]
+Univariate (marginal) SRMSE: 0.07120362870153225
+Bivariate (joint) SRMSE: 0.028584269755319348
+[256, 1000, 3, 16, 0.1]
+Univariate (marginal) SRMSE: 0.11437120899267131
+Bivariate (joint) SRMSE: 0.0301031466705545
+[256, 1000, 3, 16, 1.0]
+Univariate (marginal) SRMSE: 0.25223207394745045
+Bivariate (joint) SRMSE: 0.12212926551340549
+[256, 1000, 3, 32, 0.01]
+Univariate (marginal) SRMSE: 0.14497202008967458
+Bivariate (joint) SRMSE: 0.03585073135254529
+[256, 1000, 3, 32, 0.05]
+Univariate (marginal) SRMSE: 0.10035469851962878
+Bivariate (joint) SRMSE: 0.023959443240967607
+[256, 1000, 3, 32, 0.1]
+Univariate (marginal) SRMSE: 0.13762971155554768
+Bivariate (joint) SRMSE: 0.032100639243249345
+[256, 1000, 3, 32, 1.0]
+Univariate (marginal) SRMSE: 0.1584293928118043
+Bivariate (joint) SRMSE: 0.07196038388550358
+[256, 1000, 3, 64, 0.01]
+Univariate (marginal) SRMSE: 0.25395495508059823
+Bivariate (joint) SRMSE: 0.04919542709991957
+[256, 1000, 3, 64, 0.05]
+Univariate (marginal) SRMSE: 0.11218079498603427
+Bivariate (joint) SRMSE: 0.027564677452685225
+[256, 1000, 3, 64, 0.1]
+Univariate (marginal) SRMSE: 0.08519276218477435
+Bivariate (joint) SRMSE: 0.023911756932492822
+[256, 1000, 3, 64, 1.0]
+Univariate (marginal) SRMSE: 0.17020073805405864
+Bivariate (joint) SRMSE: 0.07706227388377267
+[256, 1000, 4, 8, 0.01]
+Univariate (marginal) SRMSE: 0.18884607646230586
+Bivariate (joint) SRMSE: 0.06707591374776825
+[256, 1000, 4, 8, 0.05]
+Univariate (marginal) SRMSE: 0.0843952995596502
+Bivariate (joint) SRMSE: 0.03413265396580538
+[256, 1000, 4, 8, 0.1]
+Univariate (marginal) SRMSE: 0.10577578608960327
+Bivariate (joint) SRMSE: 0.04432080937667563
+[256, 1000, 4, 8, 1.0]
+Univariate (marginal) SRMSE: 0.2354189814579211
+Bivariate (joint) SRMSE: 0.1147585267670059
+[256, 1000, 4, 16, 0.01]
+Univariate (marginal) SRMSE: 0.14672969131408511
+Bivariate (joint) SRMSE: 0.04467903799507275
+[256, 1000, 4, 16, 0.05]
+Univariate (marginal) SRMSE: 0.0999904424219908
+Bivariate (joint) SRMSE: 0.03495515547097968
+[256, 1000, 4, 16, 0.1]
+Univariate (marginal) SRMSE: 0.08631183505770931
+Bivariate (joint) SRMSE: 0.02102944706837135
+[256, 1000, 4, 16, 1.0]
+Univariate (marginal) SRMSE: 0.23636441917267184
+Bivariate (joint) SRMSE: 0.11574310934550504
+[256, 1000, 4, 32, 0.01]
+Univariate (marginal) SRMSE: 0.2509423915003424
+Bivariate (joint) SRMSE: 0.049814149012134594
+[256, 1000, 4, 32, 0.05]
+Univariate (marginal) SRMSE: 0.09565446105024443
+Bivariate (joint) SRMSE: 0.032342033214000754
+[256, 1000, 4, 32, 0.1]
+Univariate (marginal) SRMSE: 0.06421160670330948
+Bivariate (joint) SRMSE: 0.020779257538261826
+[256, 1000, 4, 32, 1.0]
+Univariate (marginal) SRMSE: 0.16785551021509368
+Bivariate (joint) SRMSE: 0.07608189968701039
+[256, 1000, 4, 64, 0.01]
+Univariate (marginal) SRMSE: 0.1637403136183867
+Bivariate (joint) SRMSE: 0.048750858108583345
+[256, 1000, 4, 64, 0.05]
+Univariate (marginal) SRMSE: 0.1306019526310267
+Bivariate (joint) SRMSE: 0.029273241465207066
+[256, 1000, 4, 64, 0.1]
+Univariate (marginal) SRMSE: 0.10846624554154306
+Bivariate (joint) SRMSE: 0.02341336515772016
+[256, 1000, 4, 64, 1.0]
+Univariate (marginal) SRMSE: 0.15705420270247927
+Bivariate (joint) SRMSE: 0.07020346848553674
+[512, 1000, 2, 8, 0.01]
+Univariate (marginal) SRMSE: 0.17827484136346955
+Bivariate (joint) SRMSE: 0.06878227576790139
+[512, 1000, 2, 8, 0.05]
+Univariate (marginal) SRMSE: 0.21221146704044047
+Bivariate (joint) SRMSE: 0.0806342191140838
+[512, 1000, 2, 8, 0.1]
+Univariate (marginal) SRMSE: 0.10707274886172925
+Bivariate (joint) SRMSE: 0.0408052087427108
+[512, 1000, 2, 8, 1.0]
+Univariate (marginal) SRMSE: 0.23620614978666277
+Bivariate (joint) SRMSE: 0.11621398270737046
+[512, 1000, 2, 16, 0.01]
+Univariate (marginal) SRMSE: 0.11856509579203878
+Bivariate (joint) SRMSE: 0.04597921513643927
+[512, 1000, 2, 16, 0.05]
+Univariate (marginal) SRMSE: 0.20460356241030928
+Bivariate (joint) SRMSE: 0.04477137134059449
+[512, 1000, 2, 16, 0.1]
+Univariate (marginal) SRMSE: 0.05505216013093565
+Bivariate (joint) SRMSE: 0.026562292954829824
+[512, 1000, 2, 16, 1.0]
+Univariate (marginal) SRMSE: 0.24037438897184737
+Bivariate (joint) SRMSE: 0.11738333064557252
+[512, 1000, 2, 32, 0.01]
+Univariate (marginal) SRMSE: 0.12553064374466927
+Bivariate (joint) SRMSE: 0.04263540540430763
+[512, 1000, 2, 32, 0.05]
+Univariate (marginal) SRMSE: 0.16023087719750403
+Bivariate (joint) SRMSE: 0.03015073702143359
+[512, 1000, 2, 32, 0.1]
+Univariate (marginal) SRMSE: 0.09290598456131209
+Bivariate (joint) SRMSE: 0.023846187229965756
+[512, 1000, 2, 32, 1.0]
+Univariate (marginal) SRMSE: 0.19077848874815498
+Bivariate (joint) SRMSE: 0.09017982226796196
+[512, 1000, 2, 64, 0.01]
+Univariate (marginal) SRMSE: 0.1674053138474447
+Bivariate (joint) SRMSE: 0.04623652295204049
+[512, 1000, 2, 64, 0.05]
+Univariate (marginal) SRMSE: 0.08713246130659633
+Bivariate (joint) SRMSE: 0.0301832518939457
+[512, 1000, 2, 64, 0.1]
+Univariate (marginal) SRMSE: 0.09573455246883525
+Bivariate (joint) SRMSE: 0.02690819920998265
+[512, 1000, 2, 64, 1.0]
+Univariate (marginal) SRMSE: 0.18602316029176125
+Bivariate (joint) SRMSE: 0.0850578276831319
+[512, 1000, 3, 8, 0.01]
+Univariate (marginal) SRMSE: 0.20224964151895075
+Bivariate (joint) SRMSE: 0.06388123043891758
+[512, 1000, 3, 8, 0.05]
+Univariate (marginal) SRMSE: 0.1487025861750686
+Bivariate (joint) SRMSE: 0.06041982375077673
+[512, 1000, 3, 8, 0.1]
+Univariate (marginal) SRMSE: 0.12211723974851824
+Bivariate (joint) SRMSE: 0.04324479144949999
+[512, 1000, 3, 8, 1.0]
+Univariate (marginal) SRMSE: 0.23252076454707937
+Bivariate (joint) SRMSE: 0.11499701221150097
+[512, 1000, 3, 16, 0.01]
+Univariate (marginal) SRMSE: 0.12144692467745087
+Bivariate (joint) SRMSE: 0.04004262947458573
+[512, 1000, 3, 16, 0.05]
+Univariate (marginal) SRMSE: 0.19917835207078805
+Bivariate (joint) SRMSE: 0.04569066776616574
+[512, 1000, 3, 16, 0.1]
+Univariate (marginal) SRMSE: 0.06038533704209118
+Bivariate (joint) SRMSE: 0.025437310680336177
+[512, 1000, 3, 16, 1.0]
+Univariate (marginal) SRMSE: 0.1875867675535077
+Bivariate (joint) SRMSE: 0.08896582410057519
+[512, 1000, 3, 32, 0.01]
+Univariate (marginal) SRMSE: 0.20026854684962683
+Bivariate (joint) SRMSE: 0.0414453057952734
+[512, 1000, 3, 32, 0.05]
+Univariate (marginal) SRMSE: 0.14094020845848795
+Bivariate (joint) SRMSE: 0.029359171644635296
+[512, 1000, 3, 32, 0.1]
+Univariate (marginal) SRMSE: 0.11090835447746511
+Bivariate (joint) SRMSE: 0.033677221154977566
+[512, 1000, 3, 32, 1.0]
+Univariate (marginal) SRMSE: 0.17266059272072953
+Bivariate (joint) SRMSE: 0.07927286878469175
+[512, 1000, 3, 64, 0.01]
+Univariate (marginal) SRMSE: 0.2348130658954834
+Bivariate (joint) SRMSE: 0.056523214153998615
+[512, 1000, 3, 64, 0.05]
+Univariate (marginal) SRMSE: 0.20166651430313695
+Bivariate (joint) SRMSE: 0.0414016239141473
+[512, 1000, 3, 64, 0.1]
+Univariate (marginal) SRMSE: 0.13097765996951077
+Bivariate (joint) SRMSE: 0.02779439511870234
+[512, 1000, 3, 64, 1.0]
+Univariate (marginal) SRMSE: 0.16495357406712177
+Bivariate (joint) SRMSE: 0.0750474063837609
+[512, 1000, 4, 8, 0.01]
+Univariate (marginal) SRMSE: 0.21956619105093356
+Bivariate (joint) SRMSE: 0.06041059975196052
+[512, 1000, 4, 8, 0.05]
+Univariate (marginal) SRMSE: 0.12343602088710143
+Bivariate (joint) SRMSE: 0.03701384771789212
+[512, 1000, 4, 8, 0.1]
+Univariate (marginal) SRMSE: 0.1302658133602441
+Bivariate (joint) SRMSE: 0.0457371984475298
+[512, 1000, 4, 8, 1.0]
+Univariate (marginal) SRMSE: 0.23859250043334881
+Bivariate (joint) SRMSE: 0.1170679025634747
+[512, 1000, 4, 16, 0.01]
+Univariate (marginal) SRMSE: 0.24980449002575195
+Bivariate (joint) SRMSE: 0.06424254505381272
+[512, 1000, 4, 16, 0.05]
+Univariate (marginal) SRMSE: 0.10786108220798135
+Bivariate (joint) SRMSE: 0.03615169568504534
+[512, 1000, 4, 16, 0.1]
+Univariate (marginal) SRMSE: 0.09383234766931293
+Bivariate (joint) SRMSE: 0.030557896336350674
+[512, 1000, 4, 16, 1.0]
+Univariate (marginal) SRMSE: 0.18505952402438364
+Bivariate (joint) SRMSE: 0.08826700376898552
+[512, 1000, 4, 32, 0.01]
+Univariate (marginal) SRMSE: 0.2217251677924916
+Bivariate (joint) SRMSE: 0.05249962977835956
+[512, 1000, 4, 32, 0.05]
+Univariate (marginal) SRMSE: 0.09093113733197895
+Bivariate (joint) SRMSE: 0.023107423981903068
+[512, 1000, 4, 32, 0.1]
+Univariate (marginal) SRMSE: 0.09206945263044286
+Bivariate (joint) SRMSE: 0.022671000139189396
+[512, 1000, 4, 32, 1.0]
+Univariate (marginal) SRMSE: 0.1652943308748907
+Bivariate (joint) SRMSE: 0.0757696909065918
+[512, 1000, 4, 64, 0.01]
+Univariate (marginal) SRMSE: 0.16321778109888999
+Bivariate (joint) SRMSE: 0.0422543554587817
+[512, 1000, 4, 64, 0.05]
+Univariate (marginal) SRMSE: 0.08614167523028722
+Bivariate (joint) SRMSE: 0.026299113303855846
+[512, 1000, 4, 64, 0.1]
+Univariate (marginal) SRMSE: 0.06977034241957275
+Bivariate (joint) SRMSE: 0.021412662666281203
+[512, 1000, 4, 64, 1.0]
+Univariate (marginal) SRMSE: 0.15797786535902375
+Bivariate (joint) SRMSE: 0.07186825430968984
+[1024, 1000, 2, 8, 0.01]
+Univariate (marginal) SRMSE: 0.1378632026748479
+Bivariate (joint) SRMSE: 0.06743343159706572
+[1024, 1000, 2, 8, 0.05]
+Univariate (marginal) SRMSE: 0.1537431705396528
+Bivariate (joint) SRMSE: 0.07119513246363147
+[1024, 1000, 2, 8, 0.1]
+Univariate (marginal) SRMSE: 0.17932724222047444
+Bivariate (joint) SRMSE: 0.07510155060441505
+[1024, 1000, 2, 8, 1.0]
+Univariate (marginal) SRMSE: 0.24299490124427914
+Bivariate (joint) SRMSE: 0.11898637067634715
+[1024, 1000, 2, 16, 0.01]
+Univariate (marginal) SRMSE: 0.1176289040592545
+Bivariate (joint) SRMSE: 0.050275630440680286
+[1024, 1000, 2, 16, 0.05]
+Univariate (marginal) SRMSE: 0.0912722633112202
+Bivariate (joint) SRMSE: 0.028439722789911113
+[1024, 1000, 2, 16, 0.1]
+Univariate (marginal) SRMSE: 0.09275025714137951
+Bivariate (joint) SRMSE: 0.03463915766377062
+[1024, 1000, 2, 16, 1.0]
+Univariate (marginal) SRMSE: 0.23700950943361598
+Bivariate (joint) SRMSE: 0.11614325948273727
+[1024, 1000, 2, 32, 0.01]
+Univariate (marginal) SRMSE: 0.08772126467246957
+Bivariate (joint) SRMSE: 0.03699089463421698
+[1024, 1000, 2, 32, 0.05]
+Univariate (marginal) SRMSE: 0.08746308352142068
+Bivariate (joint) SRMSE: 0.0261349551949459
+[1024, 1000, 2, 32, 0.1]
+Univariate (marginal) SRMSE: 0.07315280932482429
+Bivariate (joint) SRMSE: 0.021644085197899444
+[1024, 1000, 2, 32, 1.0]
+Univariate (marginal) SRMSE: 0.1911928630254948
+Bivariate (joint) SRMSE: 0.08863034767389598
+[1024, 1000, 2, 64, 0.01]
+Univariate (marginal) SRMSE: 0.14305167416166809
+Bivariate (joint) SRMSE: 0.04801088136003497
+[1024, 1000, 2, 64, 0.05]
+Univariate (marginal) SRMSE: 0.08675727140750436
+Bivariate (joint) SRMSE: 0.029348995084823182
+[1024, 1000, 2, 64, 0.1]
+Univariate (marginal) SRMSE: 0.08536307678471541
+Bivariate (joint) SRMSE: 0.022841991875733634
+[1024, 1000, 2, 64, 1.0]
+Univariate (marginal) SRMSE: 0.1787454780323028
+Bivariate (joint) SRMSE: 0.08278860469489079
+[1024, 1000, 3, 8, 0.01]
+Univariate (marginal) SRMSE: 0.2867482529185686
+Bivariate (joint) SRMSE: 0.06382776331667564
+[1024, 1000, 3, 8, 0.05]
+Univariate (marginal) SRMSE: 0.105217552556737
+Bivariate (joint) SRMSE: 0.04483078011301998
+[1024, 1000, 3, 8, 0.1]
+Univariate (marginal) SRMSE: 0.14948467426917575
+Bivariate (joint) SRMSE: 0.05865380433095758
+[1024, 1000, 3, 8, 1.0]
+Univariate (marginal) SRMSE: 0.2354553599897616
+Bivariate (joint) SRMSE: 0.11710711685456722
+[1024, 1000, 3, 16, 0.01]
+Univariate (marginal) SRMSE: 0.18019981102718072
+Bivariate (joint) SRMSE: 0.0404438587453928
+[1024, 1000, 3, 16, 0.05]
+Univariate (marginal) SRMSE: 0.08481853527191582
+Bivariate (joint) SRMSE: 0.028951097780146814
+[1024, 1000, 3, 16, 0.1]
+Univariate (marginal) SRMSE: 0.1553014557965534
+Bivariate (joint) SRMSE: 0.029496138484919863
+[1024, 1000, 3, 16, 1.0]
+Univariate (marginal) SRMSE: 0.2350367119638734
+Bivariate (joint) SRMSE: 0.11560108879704244
+[1024, 1000, 3, 32, 0.01]
+Univariate (marginal) SRMSE: 0.15902634509469893
+Bivariate (joint) SRMSE: 0.05745973126819499
+[1024, 1000, 3, 32, 0.05]
+Univariate (marginal) SRMSE: 0.08743659108836774
+Bivariate (joint) SRMSE: 0.03336707541861034
+[1024, 1000, 3, 32, 0.1]
+Univariate (marginal) SRMSE: 0.13163298334111773
+Bivariate (joint) SRMSE: 0.030236513998002257
+[1024, 1000, 3, 32, 1.0]
+Univariate (marginal) SRMSE: 0.16401995963819765
+Bivariate (joint) SRMSE: 0.07575491097591344
+[1024, 1000, 3, 64, 0.01]
+Univariate (marginal) SRMSE: 0.11198301561110811
+Bivariate (joint) SRMSE: 0.04376208337105368
+[1024, 1000, 3, 64, 0.05]
+Univariate (marginal) SRMSE: 0.15580398687202981
+Bivariate (joint) SRMSE: 0.03496361666357422
+[1024, 1000, 3, 64, 0.1]
+Univariate (marginal) SRMSE: 0.1348453789548043
+Bivariate (joint) SRMSE: 0.026621649160059175
+[1024, 1000, 3, 64, 1.0]
+Univariate (marginal) SRMSE: 0.1708850887032795
+Bivariate (joint) SRMSE: 0.07694233111580778
+[1024, 1000, 4, 8, 0.01]
+Univariate (marginal) SRMSE: 0.1654250588955783
+Bivariate (joint) SRMSE: 0.05345413643314679
+[1024, 1000, 4, 8, 0.05]
+Univariate (marginal) SRMSE: 0.08818274857552227
+Bivariate (joint) SRMSE: 0.033936596329543024
+[1024, 1000, 4, 8, 0.1]
+Univariate (marginal) SRMSE: 0.07889812565184792
+Bivariate (joint) SRMSE: 0.0344803405263123
+[1024, 1000, 4, 8, 1.0]
+Univariate (marginal) SRMSE: 0.2396910137997028
+Bivariate (joint) SRMSE: 0.1174318568551925
+[1024, 1000, 4, 16, 0.01]
+Univariate (marginal) SRMSE: 0.30067611324961574
+Bivariate (joint) SRMSE: 0.064067650429369
+[1024, 1000, 4, 16, 0.05]
+Univariate (marginal) SRMSE: 0.06549349052150363
+Bivariate (joint) SRMSE: 0.0302874634738821
+[1024, 1000, 4, 16, 0.1]
+Univariate (marginal) SRMSE: 0.06478558327639009
+Bivariate (joint) SRMSE: 0.02501131310084622
+[1024, 1000, 4, 16, 1.0]
+Univariate (marginal) SRMSE: 0.23894184983868125
+Bivariate (joint) SRMSE: 0.11684583757726547
+[1024, 1000, 4, 32, 0.01]
+Univariate (marginal) SRMSE: 0.2446946586237186
+Bivariate (joint) SRMSE: 0.056353158585298234
+[1024, 1000, 4, 32, 0.05]
+Univariate (marginal) SRMSE: 0.17323495309746284
+Bivariate (joint) SRMSE: 0.03512426246227864
+[1024, 1000, 4, 32, 0.1]
+Univariate (marginal) SRMSE: 0.0826709703245335
+Bivariate (joint) SRMSE: 0.024907284312957603
+[1024, 1000, 4, 32, 1.0]
+Univariate (marginal) SRMSE: 0.17014730038070144
+Bivariate (joint) SRMSE: 0.07905377971222782
+[1024, 1000, 4, 64, 0.01]
+Univariate (marginal) SRMSE: 0.12673308258962915
+Bivariate (joint) SRMSE: 0.04293896203848717
+[1024, 1000, 4, 64, 0.05]
+Univariate (marginal) SRMSE: 0.13828007759934052
+Bivariate (joint) SRMSE: 0.036873467228262395
+[1024, 1000, 4, 64, 0.1]
+Univariate (marginal) SRMSE: 0.09416863631023917
+Bivariate (joint) SRMSE: 0.02384915273842683
+[1024, 1000, 4, 64, 1.0]
+Univariate (marginal) SRMSE: 0.16246938513046702
+Bivariate (joint) SRMSE: 0.07427704708312158
