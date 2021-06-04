@@ -8,6 +8,7 @@ def calculateSRMSE(synthetic_pop, true_pop):
 
     mse_vals = []
     mf_vals = []
+    total_bins = 0
     for col in synthetic_pop.columns:
 
         # Get bin frequencies for each column
@@ -20,20 +21,21 @@ def calculateSRMSE(synthetic_pop, true_pop):
         for col_bin in list(true_freqs.keys()):
             # There may not be counts of certain bins in the synthetic population
             if col_bin in synthetic_freqs.keys():
-                se = (synthetic_freqs[col_bin] - true_freqs[col_bin])**2 / len(true_freqs.keys())
+                se = (synthetic_freqs[col_bin] - true_freqs[col_bin])**2
             else:
-                se = (0 - true_freqs[col_bin])**2 / len(true_freqs.keys())
+                se = (0 - true_freqs[col_bin])**2
             se_vals.append(se)
-            freq_vals.append(true_freqs[col_bin] / len(true_freqs.keys()))
+            freq_vals.append(true_freqs[col_bin])
 
         mse_vals.append(np.sum(se_vals))
         mf_vals.append(np.sum(freq_vals))
+        total_bins += len(true_freqs.keys())
 
     # Reduce squared errors to RMSE for each variable
-    rmse = np.sum(mse_vals)**.5
-    mf = np.sum(mf_vals)
+    rmse = (np.sum(mse_vals) / total_bins)**.5
+    mf = (np.sum(mf_vals) / total_bins)
     srmse = rmse / mf
-    print(f"Univariate (marginal) SRMSE: {srmse}")
+    print(f"Univariate (marginal) SRMSE: {srmse}, Total Bins: {total_bins}")
     return srmse
 
 def calculateBivariateSRMSE(synthetic_pop, true_pop):
@@ -44,6 +46,7 @@ def calculateBivariateSRMSE(synthetic_pop, true_pop):
     mse_vals = []
     mf_vals = []
     used_combos = []
+    total_bins = 0
     # Create contingency table for every combination of 2 variables
     for col_1 in list(synthetic_pop.columns):
         for col_2 in list(synthetic_pop.columns):
@@ -57,7 +60,7 @@ def calculateBivariateSRMSE(synthetic_pop, true_pop):
                 ct_synth = pd.crosstab(synthetic_pop[col_1], synthetic_pop[col_2], margins=False)
                 ct_true = pd.crosstab(true_pop[col_1], true_pop[col_2], margins=False)
                 used_combos.append([col_1, col_2])
-            
+
             # Calculate MSE on the contingency table
             z = ((ct_synth - ct_true)**2).values
 
@@ -66,9 +69,11 @@ def calculateBivariateSRMSE(synthetic_pop, true_pop):
             nan_indices = [tuple(idx) for idx in nan_indices]
             for idx in nan_indices:
                 z[idx] = ct_true.values[idx]**2
-            
-            mse_vals.append(np.sum(z) / z.shape[0]*z.shape[1])
-            mf_vals.append(np.sum(ct_true.values) / z.shape[0]*z.shape[1])
-    srmse = np.sum(mse_vals)**.5 / np.sum(mf_vals)
-    print(f"Bivariate (joint) SRMSE: {srmse}")
+
+            mse_vals.append(np.sum(z))
+            mf_vals.append(np.sum(ct_true.values))
+            total_bins += z.shape[0]*z.shape[1]
+
+    srmse = (np.sum(mse_vals) / total_bins)**.5 / (np.sum(mf_vals) / total_bins)
+    print(f"Bivariate (joint) SRMSE: {srmse}, Total Bins: {total_bins}")
     return srmse
