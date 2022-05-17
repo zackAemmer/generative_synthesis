@@ -5,9 +5,9 @@ num_variables,model,train_time,gen_time,total_time
 4,CVAE,134,129,263
 8,CVAE,95,210,305
 16,CVAE,120,449,569
-4,Popsim,245,0,245
-8,Popsim,588,0,588
-16,Popsim,811,0,811
+4,Populationsim,245,0,245
+8,Populationsim,588,0,588
+16,Populationsim,811,0,811
 4,VAE/CVAE,185,181,366
 8,VAE/CVAE,152,258,410
 16,VAE/CVAE,183,503,686
